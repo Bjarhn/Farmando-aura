@@ -29,3 +29,14 @@ h1 {
 p {
   font-size: 14px;
 }
+
+ul {
+  list-style: none;
+}
+
+li {
+  background: #222;
+  margin: 5px 0;
+  padding: 5px;
+  border-radius: 5px;
+}
