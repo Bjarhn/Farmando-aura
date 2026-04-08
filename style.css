@@ -11,3 +11,9 @@ body {
   height: 100vh;
 }
 
+section {
+  background: #111;
+  color: white;
+  width: 600px;
+  padding: 25px;
+}
