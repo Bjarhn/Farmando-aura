@@ -22,3 +22,10 @@ section {
   box-shadow: 0 10px 25px rgba(255, 233, 35, 0.81);
 }
 
+h1 {
+  color: #fbff1f;
+}
+
+p {
+  font-size: 14px;
+}
